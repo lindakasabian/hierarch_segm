@@ -1,0 +1,4 @@
+__pycache__/
+checkpoints_2/
+lightning_logs/
+*.code-workspace
